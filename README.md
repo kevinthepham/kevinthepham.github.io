@@ -113,14 +113,14 @@ August 2012 – August 2013
 
 ## EDUCATION
 
-Bachelor of Science in Computer Science
-Colorado School of Mines — Golden, CO
-December 2017
+Bachelor of Science in Computer Science  
+Colorado School of Mines — Golden, CO  
+December 2017  
 
 ---
 
 ## ADDITIONAL INFORMATION
 
-U.S. Citizen
-Active Secret Security Clearance
-Open to remote and relocation opportunities
+U.S. Citizen  
+Active Secret Security Clearance  
+Open to remote and relocation opportunities  
