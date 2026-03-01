@@ -6,7 +6,7 @@ Denver, CO | Remote Available<br>
 Active Secret Clearance<br>
 
 📧 kevinthpham@gmail.com<br>
-🔗 GitHub: https://github.com/kevinthepham<br>
+🔗 GitHub: [https://github.com/kevinthepham](https://github.com/kevinthepham)<br>
 
 ---
 
