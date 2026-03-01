@@ -24,30 +24,30 @@ Senior Software Engineer with 7+ years of experience developing high-performance
 
 ## TECHNICAL SKILLS
 
-**Programming Languages:**
+**Programming Languages:**  
 C, C++, Python, Java, MATLAB
 
-**Operating Systems & Platforms:**
+**Operating Systems & Platforms:**  
 Linux, Embedded Linux, Cross-Platform Development
 
-**Software Development:**
+**Software Development:**  
 Software Architecture, Object-Oriented Programming, Systems Programming, Testing Frameworks, Debugging, Performance Optimization, Concurrent Programming
 
-**Tools & Technologies:**
+**Tools & Technologies:**  
 Git, Docker (working knowledge), Protocol Buffers (Protobuf), Build Systems, Version Control, Development Toolchains
 
-**Systems & Engineering:**
+**Systems & Engineering:**  
 Embedded Systems, Control Systems (PID), Hardware-Software Integration, SDR Systems, Diagnostics Development
 
-**Methodologies:**
+**Methodologies:**  
 Agile, Scrum, Full Software Development Lifecycle
 
 ---
 
 ## PROFESSIONAL EXPERIENCE
 
-**Software Engineer**
-Lockheed Martin — Denver, CO
+**Software Engineer**  
+Lockheed Martin — Denver, CO  
 February 2023 – Present
 
 **Internal R&D Program**
@@ -75,8 +75,8 @@ February 2023 – Present
 
 ---
 
-**Systems Engineer**
-Glow Investments — Denver, CO
+**Systems Engineer**  
+Glow Investments — Denver, CO  
 March 2019 – February 2023
 
 * Designed and implemented PID control systems, reducing energy consumption by 15% while improving operational stability
@@ -87,8 +87,8 @@ March 2019 – February 2023
 
 ---
 
-**Embedded Software Engineer**
-Dreamwave — Boulder, CO
+**Embedded Software Engineer**  
+Dreamwave — Boulder, CO  
 February 2018 – March 2019
 
 * Refactored embedded software systems to improve maintainability, reliability, and performance
@@ -100,8 +100,8 @@ February 2018 – March 2019
 
 ---
 
-**Software Engineering Intern**
-NASA Johnson Space Center — Houston, TX
+**Software Engineering Intern**  
+NASA Johnson Space Center — Houston, TX  
 August 2012 – August 2013
 
 * Improved MATLAB-based flight analysis tools, increasing efficiency and maintainability
