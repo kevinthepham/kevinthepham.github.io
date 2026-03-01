@@ -76,7 +76,7 @@ February 2023 – Present
 ---
 
 **Systems Engineer**
-Aqua Farms — Denver, CO
+Glow Investments — Denver, CO
 March 2019 – February 2023
 
 * Designed and implemented PID control systems, reducing energy consumption by 15% while improving operational stability
