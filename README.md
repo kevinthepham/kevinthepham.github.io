@@ -1,6 +1,18 @@
-Kevin Pham
-Denver, CO | Remote Available | Relocation Flexible
-(281) 707-4992 | [kevinthpham@gmail.com](mailto:kevinthpham@gmail.com)
+# Kevin Pham
+
+Software Engineer — C++, Python, Linux, Systems Software
+
+Denver, CO | Remote Available  
+Active Secret Clearance  
+
+📧 kevinthpham@gmail.com  
+🔗 GitHub: https://github.com/kevinthepham  
+
+---
+
+## RESUME
+
+📄 [Download Resume (PDF)](./resume.pdf)
 
 ---
 
