@@ -2,11 +2,11 @@
 
 Software Engineer — C++, Python, Linux, Systems Software
 
-Denver, CO | Remote Available  
-Active Secret Clearance  
+Denver, CO | Remote Available<br>
+Active Secret Clearance<br>
 
-📧 kevinthpham@gmail.com  
-🔗 GitHub: https://github.com/kevinthepham  
+📧 kevinthpham@gmail.com<br>
+🔗 GitHub: https://github.com/kevinthepham<br>
 
 ---
 
@@ -24,30 +24,30 @@ Senior Software Engineer with 7+ years of experience developing high-performance
 
 ## TECHNICAL SKILLS
 
-**Programming Languages:**  
+**Programming Languages:**<br>
 C, C++, Python, Java, MATLAB
 
-**Operating Systems & Platforms:**  
+**Operating Systems & Platforms:**<br>
 Linux, Embedded Linux, Cross-Platform Development
 
-**Software Development:**  
+**Software Development:**<br>
 Software Architecture, Object-Oriented Programming, Systems Programming, Testing Frameworks, Debugging, Performance Optimization, Concurrent Programming
 
-**Tools & Technologies:**  
+**Tools & Technologies:**<br>
 Git, Docker (working knowledge), Protocol Buffers (Protobuf), Build Systems, Version Control, Development Toolchains
 
-**Systems & Engineering:**  
+**Systems & Engineering:**<br>
 Embedded Systems, Control Systems (PID), Hardware-Software Integration, SDR Systems, Diagnostics Development
 
-**Methodologies:**  
+**Methodologies:**<br>
 Agile, Scrum, Full Software Development Lifecycle
 
 ---
 
 ## PROFESSIONAL EXPERIENCE
 
-**Software Engineer**  
-Lockheed Martin — Denver, CO  
+**Software Engineer**<br>
+Lockheed Martin — Denver, CO<br>
 February 2023 – Present
 
 **Internal R&D Program**
@@ -75,8 +75,8 @@ February 2023 – Present
 
 ---
 
-**Systems Engineer**  
-Glow Investments — Denver, CO  
+**Systems Engineer**<br>
+Glow Investments — Denver, CO<br>
 March 2019 – February 2023
 
 * Designed and implemented PID control systems, reducing energy consumption by 15% while improving operational stability
@@ -87,8 +87,8 @@ March 2019 – February 2023
 
 ---
 
-**Embedded Software Engineer**  
-Dreamwave — Boulder, CO  
+**Embedded Software Engineer**<br>
+Dreamwave — Boulder, CO<br>
 February 2018 – March 2019
 
 * Refactored embedded software systems to improve maintainability, reliability, and performance
@@ -100,8 +100,8 @@ February 2018 – March 2019
 
 ---
 
-**Software Engineering Intern**  
-NASA Johnson Space Center — Houston, TX  
+**Software Engineering Intern**<br>
+NASA Johnson Space Center — Houston, TX<br>
 August 2012 – August 2013
 
 * Improved MATLAB-based flight analysis tools, increasing efficiency and maintainability
@@ -113,14 +113,14 @@ August 2012 – August 2013
 
 ## EDUCATION
 
-Bachelor of Science in Computer Science  
-Colorado School of Mines — Golden, CO  
-December 2017  
+Bachelor of Science in Computer Science<br>
+Colorado School of Mines — Golden, CO<br>
+December 2017<br>
 
 ---
 
 ## ADDITIONAL INFORMATION
 
-U.S. Citizen  
-Active Secret Security Clearance  
-Open to remote and relocation opportunities  
+U.S. Citizen<br>
+Active Secret Security Clearance<br>
+Open to remote and relocation opportunities<br>
